@@ -2,12 +2,20 @@ my React Project Setup Guide
 
 Getting Started
 
+<<<<<<< HEAD
 Prerequisites
 
 - Node.js & pnpm must be installed
 
 Installation Steps
 Package manager :pnpm
+=======
+ Prerequisites
+- Node.js & pnpm must be installed 
+
+Installation Steps
+Packege manager : pnpm
+>>>>>>> a4280f5d431f05cd9bb82f5967e8223ae1bd03e3
 
 ```sh
  Step 1: Clone the repository using the project's Git URL.
