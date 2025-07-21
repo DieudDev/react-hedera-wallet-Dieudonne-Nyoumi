@@ -14,12 +14,17 @@ Installation Steps
 Step 2: Navigate to the project directory.
 cd <PROJECT_NAME>
 
-Step 3: Install the necessary dependencies.
+Step 3: Install The Hedera Integration
+npm install @hashgraph/sdk
+
+Step 4: Install the necessary dependencies.
 npm install
 
-Step 4: Start the development server with auto-reloading and an instant preview.
+Step 5: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+Then copy the link and open in the new window to see the result
+In my cas i have my ID Account and Private Key
 
 Development Options
 
