@@ -108,6 +108,8 @@ export class HederaWalletService {
           console.warn(`Failed to get info for token ${tokenId}:`, error);
         }
       }
+      // Affichier AccountInfor dans la console sous forme JSON
+      console.log('Account Info:', JSON.stringify(accountInfo, null, 2));
 
       return {
         accountId: this.accountId.toString(),
